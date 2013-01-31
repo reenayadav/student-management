@@ -1,4 +1,5 @@
 <?php
+
   echo "Hiiii11";	
   if(isset($_REQUEST[session_name()])) {
     // There is a session already available
