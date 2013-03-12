@@ -12,7 +12,8 @@
 	define('MYSQL_PORT', '3306');	
 	define('MYSQL_DB', 'crcdb');	
 	define('MYSQL_USER', 'bogdan');	
-	define('MYSQL_PASS', 'ewigkeit');	
+	define('MYSQL_PASS', 'ewigkeit');
+	define('NEW_CONSTANT', 'ewigkeit');		
 
 	//******************************************************
 	// APP_ Constants
